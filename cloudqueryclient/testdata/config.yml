@@ -1,6 +1,7 @@
 providers:
-  - name: aws
+#  - name: aws
   - name: gcp
+    version: v0.0.3
   - name: azure
   - name: k8s
   - name: okta
